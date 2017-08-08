@@ -1,2 +1,2 @@
 # sass
-Sass files
+Sass files for compulation
